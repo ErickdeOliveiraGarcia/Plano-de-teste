@@ -1,0 +1,17 @@
+{
+  "name": "erickgarcia",
+  "version": "1.0.0",
+  "description": "Projeto Bemol Digital",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Erick O Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cypress": "^13.6.4",
+    "cypress-plugin-xhr-toggle": "^1.0.0",
+    "random-email": "^1.0.3"
+  }
+}
